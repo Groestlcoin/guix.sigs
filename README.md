@@ -1,6 +1,3 @@
-This repository contains Guix signatures for Groestlcoin.
-It should be updated on each release.
+This repository contains Guix attestations for releases of Groestlcoin Core.
 
-## How to Make and Submit Guix Sigs
-
-TODO: add instructions here
+See https://github.com/groestlcoin/groestlcoin/blob/master/doc/release-process.md#building on how to build the release with Guix and create an attestation.
